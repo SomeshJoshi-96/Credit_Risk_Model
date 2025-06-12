@@ -18,11 +18,12 @@ A **Streamlit** web app designed to predict a borrower's likelihood of defaultin
 
 ## 📸 Screenshots
 
-*(Please insert screenshots of your application here.)*
 
-![Screenshot 1](path/to/screenshot1.png)
+![Screenshot 1](screenshots/1.png)
 
-![Screenshot 2](path/to/screenshot2.png)
+![Screenshot 2](screenshots/2.png)
+
+![Screenshot 3](screenshots/3.png)
 
 ---
 
